@@ -1,8 +1,7 @@
 # Smart-Door-Lock
-> Password Reset cmd 
-> (****)
+> Password Reset cmd (****)
 ### Consists of 2 ECUs: 
-* First ECU (HMI) responsible for Interfacing with the User
+* First ECU (HMI) responsible for Interfacing with the User.
 * Second ECU responsible for System operations and Control.
 ### Drivers Implemented:
 - UART(Communication between 2 uC).
