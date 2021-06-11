@@ -1,6 +1,4 @@
 # Smart-Door-Lock
-Smart Door lock using Keypad with
-- Changing Assigned Password feature (Entering Resetting Password cmd) after checking Old password.
 > Password Reset cmd 
 > (****)
 ### Consists of 2 ECUs: 
