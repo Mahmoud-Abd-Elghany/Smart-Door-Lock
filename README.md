@@ -5,6 +5,6 @@ Smart Door lock using 3x3 Keypad with
 # Used:
 - UART(Communication between 2 uC).
 - SPI (Connection between uC and EEPROM)
-- EEPROM (Saving System's Password)
+- EEPROM
 - LCD
 - Keypad
