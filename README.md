@@ -1,5 +1,4 @@
 # Smart-Door-Lock
-> Password Reset cmd (****)
 ### Consists of 2 ECUs: 
 * First ECU (HMI) responsible for Interfacing with the User.
 * Second ECU responsible for System operations and Control.
@@ -9,3 +8,4 @@
 - External EEPROM
 - LCD
 - Keypad
+> Password Reset cmd (****)
